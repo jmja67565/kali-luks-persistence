@@ -503,6 +503,6 @@ Não. O overlay está usando ela; reparticionar ou reformatar a partir dessa ses
 
 ## 📄 Licença
 
-Lançado sob a [Licença MIT](LICENSE). Copyright (c) 2026 Your Name.
+Lançado sob a [Licença MIT](LICENSE). Copyright (c) 2026 jmja67565.
 
 Pull requests e relatos de problemas sobre armadilhas que você encontrar são bem-vindos.

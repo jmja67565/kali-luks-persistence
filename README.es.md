@@ -503,6 +503,6 @@ No. El overlay la está usando; reparticionar o reformatear desde esa sesión mu
 
 ## 📄 Licencia
 
-Publicado bajo la [MIT License](LICENSE). Copyright (c) 2026 Your Name.
+Publicado bajo la [MIT License](LICENSE). Copyright (c) 2026 jmja67565.
 
 Se agradecen los pull requests y los reportes de problemas sobre los escollos con los que te hayas encontrado.

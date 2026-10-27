@@ -503,6 +503,6 @@ No. The overlay is using it; repartitioning or reformatting from that session wi
 
 ## 📄 License
 
-Released under the [MIT License](LICENSE). Copyright (c) 2026 Your Name.
+Released under the [MIT License](LICENSE). Copyright (c) 2026 jmja67565.
 
 Pull requests and issue reports about pitfalls you hit are welcome.

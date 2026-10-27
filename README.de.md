@@ -503,6 +503,6 @@ Nein. Das Overlay benutzt sie; neu partitionieren oder formatieren aus dieser Si
 
 ## 📄 Lizenz
 
-Veröffentlicht unter der [MIT License](LICENSE). Copyright (c) 2026 Your Name.
+Veröffentlicht unter der [MIT License](LICENSE). Copyright (c) 2026 jmja67565.
 
 Pull Requests und Issue-Reports zu Stolperfallen, in die du getreten bist, sind willkommen.

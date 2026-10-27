@@ -503,6 +503,6 @@ sudo resize2fs /dev/mapper/my_usb
 
 ## 📄 授權
 
-以 [MIT License](LICENSE) 發佈。Copyright (c) 2026 Your Name。
+以 [MIT License](LICENSE) 發佈。Copyright (c) 2026 jmja67565。
 
 歡迎針對你踩到的坑提出 pull request 與 issue。

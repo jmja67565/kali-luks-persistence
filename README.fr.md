@@ -503,6 +503,6 @@ Non. L'overlay l'utilise ; repartitionner ou reformater depuis cette session cor
 
 ## 📄 Licence
 
-Publié sous la [licence MIT](LICENSE). Copyright (c) 2026 Ton Nom.
+Publié sous la [licence MIT](LICENSE). Copyright (c) 2026 jmja67565.
 
 Les pull requests et les rapports de problèmes sur les pièges que tu as rencontrés sont les bienvenus.
